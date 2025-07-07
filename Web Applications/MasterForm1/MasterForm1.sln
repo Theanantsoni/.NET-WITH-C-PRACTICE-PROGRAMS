@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterForm1", "MasterForm1\MasterForm1.csproj", "{4677C0A0-BD0F-423F-B11D-E960DB3D9447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4677C0A0-BD0F-423F-B11D-E960DB3D9447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4677C0A0-BD0F-423F-B11D-E960DB3D9447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4677C0A0-BD0F-423F-B11D-E960DB3D9447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4677C0A0-BD0F-423F-B11D-E960DB3D9447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC2E0B8-951C-4BA9-9442-01DD2A24C8FA}
+	EndGlobalSection
+EndGlobal

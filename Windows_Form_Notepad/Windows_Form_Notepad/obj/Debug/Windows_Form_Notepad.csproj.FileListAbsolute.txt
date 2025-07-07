@@ -1,0 +1,5 @@
+Z:\.NET\Windows_Form_Notepad\Windows_Form_Notepad\obj\Debug\Windows_Form_Notepad.Child_MDI.resources
+Z:\.NET\Windows_Form_Notepad\Windows_Form_Notepad\obj\Debug\Windows_Form_Notepad.Form1.resources
+Z:\.NET\Windows_Form_Notepad\Windows_Form_Notepad\obj\Debug\Windows_Form_Notepad.Properties.Resources.resources
+Z:\.NET\Windows_Form_Notepad\Windows_Form_Notepad\obj\Debug\Windows_Form_Notepad.csproj.GenerateResource.cache
+Z:\.NET\Windows_Form_Notepad\Windows_Form_Notepad\obj\Debug\Windows_Form_Notepad.csproj.CoreCompileInputs.cache

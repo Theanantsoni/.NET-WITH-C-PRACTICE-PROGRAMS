@@ -1,0 +1,7 @@
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\bin\Debug\Calc.exe
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\bin\Debug\Calc.pdb
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\obj\Debug\Calc.exe
+D:\Net C#\Test Practice Programs\Console Applications\Calc\Calc\obj\Debug\Calc.pdb

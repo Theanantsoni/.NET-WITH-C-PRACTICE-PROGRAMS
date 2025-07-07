@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master_Page.master.cs" Inherits="MasterPage_Practice.Master_Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+           
+            <table style="width:100%;">
+                <tr>
+                    <td class="auto-style1">SCET-MCA<br /><br />
+                        <asp:Menu ID="Menu1" runat="server">
+                                <Items>
+                                    <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/About Us.aspx" Text="About" Value="About"></asp:MenuItem>
+                                    <asp:MenuItem NavigateUrl="~/Contact.aspx" Text="Contact" Value="Contact"></asp:MenuItem>
+                                </Items>
+                            </asp:Menu>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            
+                            <p>
+                                <br />
+                            </p>
+                        </asp:ContentPlaceHolder>
+                        <br />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style1">&amp;copy Copyright</td>
+                </tr>
+            </table>
+           
+        </div>
+    </form>
+</body>
+</html>

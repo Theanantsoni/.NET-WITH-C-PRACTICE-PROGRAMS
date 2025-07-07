@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FirstMasterPage.master.cs" Inherits="MasterForm1.FirstMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="text-align: center">
+    <form id="form1" runat="server">
+        <div>
+            <br />
+            <asp:Button ID="Button2" runat="server" PostBackUrl="~/HomePage.aspx" Text="Home Page" CausesValidation="False" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:LinkButton ID="LinkButton2" runat="server" PostBackUrl="~/LoginForm.aspx" CausesValidation="False">Login Page</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/RegisterForm.aspx">Registration Page</asp:HyperLink>
+            <br />
+            <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <table style="width: 100%;">
+                    <tr>
+                        <td>Hello .. This is Master Page ... or Home Page ... </td>
+                    </tr>
+                </table>
+            </asp:ContentPlaceHolder>
+        </div>
+        <br />
+        <br />
+    </form>
+</body>
+</html>

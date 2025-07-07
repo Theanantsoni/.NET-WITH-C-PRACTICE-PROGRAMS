@@ -1,0 +1,25 @@
+﻿
+<%@ Master Language="C#" MasterPageFile="~/FirstMasterPage.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage.master.cs" Inherits="MasterForm1.NestedMasterPage" %>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+    </style>
+</asp:Content>
+
+<asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+   <p class="auto-style1">
+    Hello ...</p>
+    <p class="auto-style1">
+        This is Nested Master Page ...</p>
+    <p class="auto-style1">
+        &nbsp;</p>
+
+    <!-- ✅ Add this placeholder for content pages like LoginForm.aspx -->
+    <br />
+    <asp:ContentPlaceHolder ID="NestedContent" runat="server" />
+
+</asp:Content>

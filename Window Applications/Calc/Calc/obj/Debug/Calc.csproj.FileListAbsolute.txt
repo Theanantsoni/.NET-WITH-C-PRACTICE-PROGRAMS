@@ -1,0 +1,10 @@
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\bin\Debug\Calc.exe
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\bin\Debug\Calc.pdb
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.exe
+D:\Net C#\Test Practice Programs\Window Applications\Calc\Calc\obj\Debug\Calc.pdb
